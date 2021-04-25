@@ -1,0 +1,5 @@
+{
+  "item.coppermod.copper_wire": "Copper Wire",
+  "block.coppermod.copper_block" : "Copper Block",
+  "itemGroup.custom_tab" : "Custom Tab"
+}
