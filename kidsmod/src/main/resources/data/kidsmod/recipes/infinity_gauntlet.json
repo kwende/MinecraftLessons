@@ -1,0 +1,31 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#nE",
+    "gWC",
+    "WWW"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:diamond"
+    },
+    "n": {
+      "item": "minecraft:netherite_ingot"
+    },
+    "E": {
+      "item": "minecraft:emerald"
+    },
+    "g": {
+      "item": "minecraft:gold_ingot"
+    },
+    "W": {
+      "item": "minecraft:white_concrete"
+    },
+    "C": {
+      "item": "minecraft:coal"
+    }
+  },
+  "result": {
+    "item": "kidsmod:infinity_gauntlet"
+  }
+}
