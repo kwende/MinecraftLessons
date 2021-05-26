@@ -1,0 +1,5 @@
+{
+  "variants" : {
+    "" : {"model" : "kidsmod:block/cheese_block"}
+  }
+}
